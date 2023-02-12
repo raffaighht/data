@@ -1,0 +1,88 @@
+[
+    {
+      "name": "FlakHelmet",
+      "Type":"Mastercraft",
+      "url":"https://i.imgur.com/wE9u987.png",
+      "Armor": "250.2",
+      "Durability": "825",
+      "HypothermicInsulation": "48.1",
+      "HyperthermicInsulation": "-11.2",
+      "weight": "4.0", 
+      "Owner": "Admin",
+      "Ingots": "153x Metal Ingot",
+      "Fiber": "46x Fiber",
+      "Hide": "107x Hide"
+    },
+    {
+        "name": "FlakChestpiece",
+        "Type":"Journeyman",
+        "url":"https://i.imgur.com/8epcggs.png",
+        "Armor": "439.5",
+        "Durability": "855",
+        "HypothermicInsulation": "48.5",
+        "HyperthermicInsulation": "-40.3",
+        "weight": "10.0", 
+        "Owner": "Admin",
+      "Ingots": "406x Metal Ingot",
+      "Fiber": "125x Fiber",
+      "Hide": "312x Hide"
+      },
+      {
+        "name": "FlakGauntlets",
+        "Type":"Ascendant",
+        "url":"https://i.imgur.com/WydcTwp.png",
+        "Armor": "195.6",
+        "Durability": "937",
+        "HypothermicInsulation": "28.2",
+        "HyperthermicInsulation": "-25.9",
+        "weight": "2.0", 
+        "Owner": "Admin",
+        "Ingots": "148x Metal Ingot",
+        "Fiber": "49x Fiber",
+        "Hide": "123x Hide"
+      },
+      {
+        "name": "FlakLeggings",
+        "Type":"Mastercraft",
+        "url":"https://i.imgur.com/l060G8Q.png",
+        "Armor": "230.8",
+        "Durability": "926",
+        "HypothermicInsulation": "77.2",
+        "HyperthermicInsulation": "-26.5",
+        "weight": "10.0", 
+        "Owner": "Admin",
+        "Ingots": "239x Metal Ingot",
+        "Fiber": "74x Fiber",
+        "Hide": "179x Hide"
+      },
+      {
+        "name": "FlakBoots",
+        "Type":"Ascendant",
+        "url":"https://i.imgur.com/glF0tGM.png",
+        "Armor": "488.6",
+        "Durability": "892",
+        "HypothermicInsulation": "27.1",
+        "HyperthermicInsulation": "-24.1",
+        "weight": "4.0", 
+        "Owner": "Admin",
+        "Ingots": "230x Metal Ingot",
+        "Fiber": "115x Fiber",
+        "Hide": "172x Hide"
+      },
+      {
+        "name": "RiotShield",
+        "Type":"Ramshackle",
+        "url": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "Armor": "N/A",
+        "Durability": "5825",
+        "HypothermicInsulation": "N/A",
+        "HyperthermicInsulation": "N/A",
+        "weight": "30.0", 
+        "Owner": "Admin",
+        "Ingots": "100x Metal Ingot",
+        "Sp": "302x Silica Pearls",
+        "Crys": "504x Crystal",
+        "Poly": "302x Polymer"
+     
+      }
+]
