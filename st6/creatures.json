@@ -172,14 +172,14 @@
     {
         "name": "LightningWyv",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/0/0b/Zombie_Lightning_Wyvern.png",
-        "health": "16827",
-        "stamina": "1307",
-        "oxygen": "N/A",
-        "food": "N/A",
-        "weight": "728",
-        "meleeDamage": "705",
+        "health": "21877.5",
+        "stamina": "1606.5",
+        "oxygen": "165.0",
+        "food": "6840.0",
+        "weight": "624",
+        "meleeDamage": "905.5",
         "movementSpeed": "100%",
-        "torpidity": "10000",
+        "torpidity": "17603.5",
         "breeders": "xBerk"
     },
     {
