@@ -276,14 +276,14 @@
     {
         "name": "Rex",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/5/5f/Rex.png",
-        "health": "30800.1",
-        "stamina": "504.0",
-        "oxygen": "225",
+        "health": "43560.1",
+        "stamina": "588.0",
+        "oxygen": "195",
         "food": "13800",
         "weight": "520",
-        "meleeDamage": "931.4",
+        "meleeDamage": "1025.5",
         "movementSpeed": "100%",
-        "torpidity": "31682.5",
+        "torpidity": "37913.5",
         "breeders": "Free to breed"
     },
     {
