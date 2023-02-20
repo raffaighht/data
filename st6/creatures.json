@@ -2,15 +2,15 @@
     {
         "name": "Astrodelphis",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/2/25/Astrodelphis.png",
-        "health": "4300.1",
-        "stamina": "800",
+        "health": "6175.1",
+        "stamina": "750",
         "oxygen": "N/A",
-        "food": "4784.0",
-        "weight": "470.4",
-        "meleeDamage": "408",
+        "food": "9568.0",
+        "weight": "453.6",
+        "meleeDamage": "825.6%",
         "movementSpeed": "136.5",
-        "torpidity": "6768.5",
-        "breeders": "Free to Breed"
+        "torpidity": "10008.5",
+        "breeders": "Poglin"
     },
     {
         "name": "Arthropluera",
@@ -102,6 +102,19 @@
         "movementSpeed": "170%",
         "torpidity": "5588.5",
         "breeders":  "Free to breed"
+    },
+      {
+        "name": "Carcharodontosaurus",
+        "url": "https://ark.fandom.com/wiki/Carcharodontosaurus?file=Carcharodontosaurus.png",
+        "health": "18128.0",
+        "stamina": "497.3",
+        "oxygen": "162.8",
+        "food": "4020",
+        "weight": "1092",
+        "meleeDamage": "345",
+        "movementSpeed": "100%",
+        "torpidity": "71160.0",
+        "breeders":  "NotFarhV2"
     },
     {
         "name": "Desmodus",
@@ -211,7 +224,7 @@
     {
         "name": "Megachelon",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/a/a4/Megachelon.png",
-        "health": "29184.1",
+        "health": "65200",
         "stamina": "420",
         "oxygen": "N/A",
         "food": "44880",
@@ -250,14 +263,14 @@
     {
         "name": "Pteranodon",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/2/22/Pteranodon.png",
-        "health": "4014.4",
-        "stamina": "1012.5",
-        "oxygen": "960",
-        "food": "1227.4",
+        "health": "7824",
+        "stamina": "585",
+        "oxygen": "150",
+        "food": "1380",
         "weight": "630.5",
-        "meleeDamage": "688.1",
+        "meleeDamage": "128",
         "movementSpeed": "135%",
-        "torpidity": "3540.0",
+        "torpidity": "2157.1",
         "breeders":"ST6 Death"
     },
     {
@@ -272,6 +285,19 @@
         "movementSpeed": "100%",
         "torpidity": "N/A",
         "breeders": "TbS-_-Vigil_"
+    },
+     {
+        "name": "Quetzal",
+        "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/9/9d/Quetzal.png",
+        "health": "28152.1",
+        "stamina": "2720.0",
+        "oxygen": "855.0",
+        "food": "6762.0",
+        "weight": "1712.0",
+        "meleeDamage": "326.5",
+        "movementSpeed": "136.5%",
+        "torpidity": "42587.5",
+        "breeders": "Poglin"
     },
     {
         "name": "Rex",
