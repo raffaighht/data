@@ -276,15 +276,15 @@
     {
         "name": "PoisonWyv",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/1/19/Poison_Wyvern.png",
-        "health": "18198",
-        "stamina": "1480",
-        "oxygen": "N/A",
-        "food": "N/A",
-        "weight": "N/A",
-        "meleeDamage": "505",
+        "health": "34892.3",
+        "stamina": "1575.0",
+        "oxygen": "210.0/A",
+        "food": "5580.0",
+        "weight": "656.0",
+        "meleeDamage": "529.2%",
         "movementSpeed": "100%",
-        "torpidity": "N/A",
-        "breeders": "TbS-_-Vigil_"
+        "torpidity": "17647.0",
+        "breeders": "N A T"
     },
      {
         "name": "Quetzal",
@@ -419,12 +419,12 @@
     {
         "name": "Tusoteuthis",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/3/37/Tusoteuthis.png",
-        "health": "60000",
+        "health": "66420",
         "stamina": "1890",
         "oxygen": "258",
         "food": "4784",
         "weight": "848",
-        "meleeDamage": "625",
+        "meleeDamage": "660%",
         "movementSpeed": "200",
         "torpidity": "25668.5",
         "breeders": "Zombie"
