@@ -10,7 +10,7 @@
         "meleeDamage": "825.6%",
         "movementSpeed": "136.5",
         "torpidity": "10008.5",
-        "breeders": "Poglin"
+        "breeders": "N/A"
     },
     {
         "name": "Arthropluera",
@@ -297,7 +297,7 @@
         "meleeDamage": "326.5",
         "movementSpeed": "136.5%",
         "torpidity": "42587.5",
-        "breeders": "Poglin"
+        "breeders": "N/A"
     },
     {
         "name": "Rex",
