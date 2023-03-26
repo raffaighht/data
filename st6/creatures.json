@@ -41,14 +41,14 @@
     {
         "name": "Andrewsarchus",
         "url":  "https://ark.wiki.gg/images/thumb/c/ce/Andrewsarchus.png/43px-Andrewsarchus.png",
-        "health": "6560.1",
-        "stamina": "1520",
-        "oxygen": "2340.0",
-        "food": "11735.2",
-        "weight": "770.0",
-        "meleeDamage": "243.0%",
+        "health": "15520.1",
+        "stamina": "960",
+        "oxygen": "1365.0",
+        "food": "5000.2",
+        "weight": "660.0",
+        "meleeDamage": "185.0%",
         "movementSpeed": "100",
-        "torpidity": "10496.5",
+        "torpidity": "9488.5",
         "breeders":  "Benjaminsaurus"
     },
     {
