@@ -133,14 +133,14 @@
     {
         "name": "Deinonychus",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/4/4e/Deinonychus.png",
-        "health": "8040.1",
+        "health": "8520.1",
         "stamina": "930",
-        "oxygen": "225.0",
-        "food": "1320.0",
-        "weight": "148.4",
+        "oxygen": "195.0",
+        "food": "1680.0",
+        "weight": "151.2",
         "meleeDamage": "619.8",
         "movementSpeed": "120%",
-        "torpidity": "3906.5",
+        "torpidity": "4025.3",
         "breeders": "Poglin"
     },
     {
