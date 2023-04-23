@@ -119,14 +119,14 @@
     {
         "name": "Desmodus",
         "url": "https://ark.wiki.gg/images/thumb/f/f0/Desmodus.png/43px-Desmodus.png",
-        "health": "4303.1",
-        "stamina": "1525",
-        "oxygen": "690.0",
-        "food": "8096",
-        "weight": "616",
-        "meleeDamage": "555.1%",
+        "health": "10136.2",
+        "stamina": "1100",
+        "oxygen": "165.0",
+        "food": "2868",
+        "weight": "764",
+        "meleeDamage": "1257.1%",
         "movementSpeed": "136.5%",
-        "torpidity": "8388.5",
+        "torpidity": "12625.7",
         "breeders": "Savage Killer"
 
     },
