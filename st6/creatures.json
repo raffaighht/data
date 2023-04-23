@@ -237,12 +237,12 @@
     {
         "name": "Moschops",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e6/Moschops.png",
-        "health": "3375.1",
-        "stamina": "420",
-        "oxygen": "255",
-        "food": "793.5",
+        "health": "975.1",
+        "stamina": "1140",
+        "oxygen": "525",
+        "food": "552.5",
         "weight": "200.0",
-        "meleeDamage": "533.9%",
+        "meleeDamage": "1121.9%",
         "movementSpeed": "120%",
         "torpidity": "3306.5",
         "breeders": "Weenus"
