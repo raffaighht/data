@@ -36,7 +36,7 @@
         "meleeDamage": "184.6",
         "movementSpeed": "100",
         "torpidity": "19125.5",
-        "breeders": "Stock Coffee"
+        "breeders": "N/A"
     },
     {
         "name": "Andrewsarchus",
@@ -62,7 +62,7 @@
         "meleeDamage": "165.3%",
         "movementSpeed": "106.7%",
         "torpidity": "19029.8",
-        "breeders": "MCDC444"
+        "breeders": "N/A"
     },
     {
         "name": "Bloodstalker",
@@ -75,7 +75,7 @@
         "meleeDamage": "1367",
         "movementSpeed": "120%",
         "torpidity": "4457.3",
-        "breeders": "N/A"
+        "breeders": "Free To Breed"
     },
     {
         "name": "BloodWyv",
@@ -111,7 +111,7 @@
         "oxygen": "159.4",
         "food": "4020",
         "weight": "1092",
-        "meleeDamage": "375.0%",
+        "meleeDamage": "395.0%",
         "movementSpeed": "100%",
         "torpidity": "68640.0",
         "breeders":  "NotFarhV2"
@@ -127,7 +127,7 @@
         "meleeDamage": "1049.1%",
         "movementSpeed": "136.5%",
         "torpidity": "12625.7",
-        "breeders": "Savage Killer"
+        "breeders": "Free To Breed"
 
     },
     {
@@ -141,7 +141,7 @@
         "meleeDamage": "619.8",
         "movementSpeed": "120%",
         "torpidity": "4025.3",
-        "breeders": "Poglin"
+        "breeders": "N/A"
     },
     {
         "name": "Dinopithecus",
@@ -154,7 +154,7 @@
         "meleeDamage": "378.7",
         "movementSpeed": "100%",
         "torpidity": "9456.5",
-        "breeders": "Ruffie"
+        "breeders": "N/A"
     },
     {
         "name": "Gasbag",
@@ -245,7 +245,7 @@
         "meleeDamage": "1121.9%",
         "movementSpeed": "120%",
         "torpidity": "3306.5",
-        "breeders": "Weenus"
+        "breeders": "Free To Breed"
     },
     {
         "name": "Paraceratherium",
@@ -271,7 +271,7 @@
         "meleeDamage": "128",
         "movementSpeed": "135%",
         "torpidity": "2157.1",
-        "breeders":"ST6 Death"
+        "breeders":"N/A"
     },
     {
         "name": "PoisonWyv",
@@ -336,7 +336,7 @@
         "meleeDamage": "519.8",
         "movementSpeed": "100%",
         "torpidity": "13132.5",
-        "breeders": "Snowman40cal"
+        "breeders": "Free To Breed"
     },
     {
         "name": "Sinomacrops",
@@ -349,7 +349,7 @@
         "meleeDamage": "390",
         "movementSpeed": "100%",
         "torpidity": "1186.5",
-        "breeders":"Zombie"
+        "breeders":"Free To Breed"
     },
     {
         "name": "Tapejara",
@@ -362,7 +362,7 @@
         "meleeDamage": "N/A",
         "movementSpeed": "100%",
         "torpidity": "N/A",
-        "breeders": "N/A"
+        "breeders": "Free To Breed"
     },
     {
         "name": "Therizinosaurus",
@@ -375,7 +375,7 @@
         "meleeDamage": "860",
         "movementSpeed": "100%",
         "torpidity": "N/A",
-        "breeders": "Kal4shCana"
+        "breeders": "Free To Breed"
     },
     {
         "name": "Thylacoleo",
@@ -388,7 +388,7 @@
         "meleeDamage": "283.4",
         "movementSpeed": "130%",
         "torpidity": "9310.5",
-        "breeders": "Zombie"
+        "breeders": "N/A"
     },
     {
         "name": "Triceratops",
@@ -401,7 +401,7 @@
         "meleeDamage": "278.7%",
         "movementSpeed": "220.0%",
         "torpidity": "3790.5",
-        "breeders":  "StaffyV2"
+        "breeders":  "N/A"
     },
     {
         "name": "TropicalWyv",
