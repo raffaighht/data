@@ -198,14 +198,14 @@
     {
         "name": "Managarmar",
         "url": "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/e/e7/Managarmr.png",
-        "health": "14685.1",
-        "stamina": "2700.0",
-        "oxygen": "285",
-        "food": "8924.4",
-        "weight": "540",
-        "meleeDamage": "708.0",
+        "health": "10065.1",
+        "stamina": "2220.0",
+        "oxygen": "210",
+        "food": "2291.4",
+        "weight": "306",
+        "meleeDamage": "1495.9",
         "movementSpeed": "158.5%",
-        "torpidity": "17456.5",
+        "torpidity": "17984.5",
         "breeders": "Free to breed"
     },
     {
